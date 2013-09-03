@@ -1,4 +1,11 @@
-workingwithus
+Working with Us
 =============
+### Todays topic:  Estimation and planning
 
-Some words about how we do our work and guidance to others so they can join in too
+
+### Possible future topics
+
+Contracting
+Day to day planning (KANBAN)
+What happens when it looks like there is no money left in the project
+...
