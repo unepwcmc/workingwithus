@@ -2,7 +2,7 @@ Working with Us
 =============
 ### Todays topic:  Estimation and planning  
 
-
+=============
 ### Possible future topics  
 
 - Contracting  
